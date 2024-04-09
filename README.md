@@ -66,7 +66,7 @@ Follow these steps to participate in the project, complete a problem lab, and ea
 
 #### Step 3: Create Your New Repository
 
-- Create a new repository on GitHub. Name it `Built With AI - Lahore Google Gemini Labs`.
+- Create a new repository on GitHub. Name it `Built With AI - GDG Cloud Lahore Lab Submission`.
 - Add this new repository as a remote origin to your project. This step involves using git commands to set up your local repository's remote URL.
 
 #### Step 4: Commit Your Changes
