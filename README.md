@@ -1,4 +1,5 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GDGCloudLahore/Build-With-AI-Labs/tree/main/solutions/Project%201)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GDGCloudLahore/Build-With-AI-Labs/blob/main/solutions/Project%201/app.py)
+
 
 # Build With AI - Lahore Labs 🌟
 ## Workshop on Google Gemini
