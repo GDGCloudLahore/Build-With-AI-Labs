@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GDGCloudLahore/Build-With-AI-Labs/blob/main/solutions/Project%201/app.py)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GDGCloudLahore/Build-With-AI-Labs/blob/main/solutions/Google_Colabs/googlecolabs.ipynb)
 
 
 # Build With AI - Lahore Labs 🌟
