@@ -83,6 +83,6 @@ Follow these steps to participate in the project, complete a problem lab, and ea
 
 #### Step 6: Earn Your Digital Badge
 
-- Once you have completed your project and pushed it to GitHub, fill out the provided form to claim your Digital badge. This badge recognizes your participation and achievement in the Built With AI - Lahore Google Gemini Labs project.
+- Once you have completed your project and pushed it to GitHub, [fill out the provided form](https://forms.gle/Dxn4RfYdLNBHSvfW6) to claim your Digital badge. This badge recognizes your participation and achievement in the Built With AI - Lahore Google Gemini Labs project.
 
 Remember, this project is not only about coding but also about sharing knowledge and contributing to the community. Good luck!
