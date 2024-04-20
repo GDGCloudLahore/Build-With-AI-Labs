@@ -35,7 +35,7 @@ st.header("Gemini QnA chat Application")
 
 # Initialize the chat history in the session state
 if 'chat_history' not in st.session_state:
-    st.session_chat['chat_history'] = []
+    st.session_state['chat_history'] = []
 
 # Get the user input
 input = st.text_input("Input: ", key="input")
@@ -48,13 +48,13 @@ if submit and input:
     response = get_gemini_response(input)
 
     # Add the response and query in the session chat history
-    st.session_state['chat_history'].append("You", input)
+    st.session_state['chat_history'].append(("You", input))
 
     # Display the response
     st.subheader("The Response is")
     for chunk in response:
         st.write(chunk.text)
-        st.session_state['chat_history'].append("Bot", chunk.text)
+        st.session_state['chat_history'].append(("Bot", chunk.text))
 
 # Display the chat history
 st.subheader("The Chat History is: ")
